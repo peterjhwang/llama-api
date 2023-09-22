@@ -1,0 +1,12 @@
+openai
+ipykernel
+python-dotenv
+tiktoken
+langchain
+pypdf
+transformers
+torch
+accelerate
+autotrain-advanced
+bitsandbytes
+diffusers==0.20.2
